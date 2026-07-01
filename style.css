@@ -1,9 +1,9 @@
 img {
-    width: 567px
+    width: 500px
 }
 body {
     text-align: center;
-    font-family: 'comic sans ms', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: plum;
-    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: darkviolet;
+    color: honeydew;
 }
