@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    font-family: 'comic sans ms', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(20, 14, 19);
+}
+h1 {
+    color: rgba(179, 50, 50, 0.9);
+}
+p {
+    color: rgba(55, 50, 54, 0.9);
+}
